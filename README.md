@@ -21,4 +21,6 @@
  [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 
 ### 📃 Status: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBorchoski&layout=donut)](https://github.com/JoaoBorchoski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBorchoski&layout=donut&langs_count=6)](https://github.com/JoaoBorchoski/github-readme-stats)
+<br/>
+![Borchoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBorchoski&show_icons=true&theme=radical)
