@@ -2,7 +2,7 @@
 
 ## ✨ About Me
 - ✅ Today I work in Web development with a focus on mobile and backend
-- 📖 I'm currently  learning Artificial Intelligence and Flutter/Kotlin
+- 📖 I'm currently  learning Artificial Intelligence and Mobile Developement
 - 🖥️ Technologies: Typescript | Node.js | React | Django | Flutter | Angular 
 - 🔍 I'm always open if you need any help
 
