@@ -22,5 +22,4 @@
 
 ### 📃 Status: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBorchoski&layout=donut&langs_count=6)](https://github.com/JoaoBorchoski/github-readme-stats)
-<br/>
 ![Borchoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBorchoski&show_icons=true&theme=radical)
