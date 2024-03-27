@@ -1,7 +1,7 @@
 # Hi traveler, I'm João Borchoski
 
 ## ✨ About Me
-- ✅ Today I work in Software Development with a focus on mobile and backend
+- ✅ Today I work as Software Development with a focus on mobile and backend
 - 📖 I'm currently learning Artificial Intelligence and Sales Force plataform
 - 🖥️ Technologies: Typescript | Node.js | React | Django | Flutter | Express 
 
