@@ -2,8 +2,8 @@
 
 ## ✨ About Me
 - ✅ Today I work as Software Development with a focus on mobile and backend
-- 📖 I'm currently learning Artificial Intelligence and Backend focused on efficiency.
-- 🖥️ Technologies: React | Next | Flutter | Node.js | Express | Nest | Typescript
+- 📖 I'm currently learning Artificial Intelligence and Backend focused on efficiency
+- 🖥️ Technologies: React | Next | Angular | Flutter | Node.js | Express | Nest | Typescript 
 
 ## 🌎 Contact
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JoaoBorchoski)
